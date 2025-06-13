@@ -23,7 +23,7 @@ My work focuses on the intersection of machine learning and scientific domains, 
 
 - 📧 Email: indrakalita09@gmail.com || indrajit@bu.edu
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kalita-indrajit/)  
-- 🌐 Website: [Indrajit Kalita](https://indrajitkalita.com/) *(optional)*
+- 🌐 Website: [Indrajit Kalita](https://indrajitkalita.com/)
 
 ## 📌 Notes
 
